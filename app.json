@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-tailwind-example",
+    "slug": "expo-tailwind-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
