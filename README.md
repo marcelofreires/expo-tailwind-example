@@ -33,5 +33,5 @@ yarn ios
 
 And to build for Android.
 ```bash
-yarn dev:tailwind
+yarn android
 ```
