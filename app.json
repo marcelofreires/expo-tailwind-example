@@ -5,6 +5,8 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "This is an example to answer question 71600495 at stackoverflow.com about tailwind-rn.",
+    "githubUrl": "https://github.com/marcelofreires/expo-tailwind-example"
   }
 }
